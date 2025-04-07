@@ -2,8 +2,6 @@
 # xroar_frontend
 Our Xroar project is addressing the lack of end-to-end visibility that leads to counterfeiting, fraud, inefficiencies, and regulatory compliance issues.   The XRoar Blockchain Platform, ensures transparency, security, and efficiency in the agricultural supply chain. We provide a seamless, fraud-resistant, and highly efficient supply chain.
 =======
-To transform your README file into a more engaging, story-like format while explaining your project, you can use a conversational tone, add context about the project, and explain its purpose and features. Here's an example of how you might rewrite your README:
-
 ---
 
 # Welcome to My Blockchain Project!
